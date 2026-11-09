@@ -1,0 +1,37 @@
+[
+    {
+        "id": "B001",
+        "title": "Python 入門",
+        "author": "王小明",
+        "price": 450,
+        "borrowed": false
+    },
+    {
+        "id": "B002",
+        "title": "資料分析基礎",
+        "author": "陳美玲",
+        "price": 680,
+        "borrowed": true
+    },
+    {
+        "id": "B003",
+        "title": "Python 實作練習",
+        "author": "林大華",
+        "price": 520,
+        "borrowed": true
+    },
+    {
+        "id": "B004",
+        "title": "程式設計的思考",
+        "author": "張雅婷",
+        "price": 399,
+        "borrowed": false
+    },
+    {
+        "id": "A001",
+        "title": "期中考筆記",
+        "author": "里李李",
+        "price": 100,
+        "borrowed": false
+    }
+]
